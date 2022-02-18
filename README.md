@@ -10,4 +10,3 @@ On build l'image.
 On lance l'application.
 
 Poussez votre image sur le docker hub !
-# Docker-Exercice1
